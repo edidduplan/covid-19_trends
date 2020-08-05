@@ -10,4 +10,4 @@ using the plotly API, which allows to interact with the data. The notebook can b
 An html version, which is updated daily is [here.](https://covid-19-statsandtrend.s3.eu-central-1.amazonaws.com/EAP.html)<br>
 2. **Analysis of Covid-19 tests and statistics:** in this project, statistics of several Covid-19 tests procedures has been analysed. Data is first 
 converted from PDF to pandas dataframe using Camelot. The probalities of actually being sick (or not) of Covid-19 given test results (molecular 
-and serological) is graphically presented. The notebook can be seen [here.](http://htmlpreview.github.com/?https://github.com/edidduplan/covid-19_trends/blob/master/scripts/Analysis%20of%20Covid-19%20tests%20statistics.html)
+and serological) is graphically presented. The notebook can be seen [here.](https://nbviewer.jupyter.org/github/edidduplan/covid-19_trends/blob/master/scripts/Analysis%20of%20Covid-19%20tests%20statistics.ipynb)
