@@ -1,0 +1,106 @@
+,Type,Organisation,Sensitivity,Specificity,Category,sub_category
+1,rRT-PCR,"Charité Institute of Virology, Berlin, Germany <s>1,12</s>",100.0,100.0,Molecular,PCR
+2,rRT-PCR ,"School of Public Health, The University of Hong Kong (HKU)<s>13,14</s>",100.0,100.0,Molecular,PCR
+3,rRT-PCR,"Institut Pasteur, Paris, France<s>10</s>",100.0,100.0,Molecular,PCR
+4,RT-PCR Kit,"Genosensor, LLC <s>103</s>",100.0,100.0,Molecular,PCR
+5,RT-PCR Kit,KorvaLabs Inc. <s>104</s>,100.0,100.0,Molecular,PCR
+6,RT-PCR Kit ,"Genosensor, LLC <s>103</s> ",100.0,100.0,Molecular,PCR
+7,RT-PCR Kit,KorvaLabs Inc. <s>104</s>,100.0,100.0,Molecular,PCR
+8,RT-PCR Kit ,Shanghai Fosun Long March Medical Science Co. Ltd<s>105</s> Manufactured for: Fosun Pharma USA Inc. ,99.51,96.44,Molecular,PCR
+9,RT-PCR assay,"Rhoenix, Inc. <s>108</s>",100.0,100.0,Molecular,PCR
+10,RT-PCR assay,"LabGenomics Co., Ltd <s>110</s>",100.0,100.0,Molecular,PCR
+11,RT-PCR,Co-Diagnostics<s>113-</s><s>115</s> USA,100.0,100.0,Molecular,PCR
+12,RT-PCR,"Altona Diagnostics<s>119,120</s>Germany",100.0,,Molecular,PCR
+13,RT-PCR ,Roche<s>123-126</s> Switzerland ,100.0,100.0,Molecular,PCR
+14,RT-PCR,"A*STAR<s>4,128</s>(Manufactured by Singapore’s MiRxes which has a nonexclusive license)<s>129</s> Singapore",100.0,100.0,Molecular,PCR
+15,RT-PCR,PCL<s>131</s> South Korea,100.0,,Molecular,PCR
+16,RT-PCR  [Point-of-Care],"Cepheid<s>27,140,141</s> (Plus collaboration with Sherlock Biosciences)<s>142</s> USA",100.0,100.0,Molecular,PCR
+17,RT-PCR,AusDiagnostics<s>145-</s><s>147</s> Australia,100.0,100.0,Molecular,PCR
+18,RT-PCR,"Seegene<s>148,149</s> South Korea",100.0,97.87,Molecular,PCR
+19,RT-PCR,"Osang Healthcare<s>156,157</s>(partnership with Italy’s ELITech Group)  South Korea",100.0,100.0,Molecular,PCR
+20,RT-PCR  [Point-of-Care],"Mesa Biotech<s>28,30,160-162</s> USA",100.0,100.0,Molecular,PCR
+21,RT-PCR,Luminex<s>163-165</s> USA,100.0,100.0,Molecular,PCR
+22,RT-PCR ,"Fulgent Therapeutics, LLC<s>168</s> USA ",100.0,100.0,Molecular,PCR
+23,RT-PCR,bioMérieux<s>171-173</s>(subsidiary BioFire Defense)  France,100.0,100.0,Molecular,PCR
+24,RT-PCR,Hologic<s>175-177</s> USA,100.0,,Molecular,PCR
+25,RT-PCR,"LabCorp (Laboratory Corporation of America)<s>176,179</s> USA",100.0,100.0,Molecular,PCR
+26,RT-PCR ,"Quidel<s>181,182</s> USA ",100.0,100.0,Molecular,PCR
+27,RT-PCR,"Quests Diagnostics<s>184,185</s> USA",100.0,100.0,Molecular,PCR
+28,RT-PCR,"Abbott Molecular<s>27,186,187</s> USA",100.0,100.0,Molecular,PCR
+29,RT-PCR,DiaSorin Molecular<s>189-191</s> Italy,100.0,100.0,Molecular,PCR
+30,RT-PCR ,"DiaCarta<s>192,193</s> USA ",96.7,100.0,Molecular,PCR
+31,RT-PCR,"PerkinElmer<s>28,195,19</s><s>6</s> USA",100.0,100.0,Molecular,PCR
+34,RT-PCR,Trax management Services Inc.<s>214</s>,100.0,100.0,Molecular,PCR
+35,RT-PCR,CTK Biotech Inc (United States of America)<s>216</s>,95.1,95.9,Molecular,PCR
+36,RT-PCR,PCL<s>132</s>,100.0,,Molecular,PCR
+37,RT-PCR,Seasun Biomaterials <s>217</s>,100.0,,Molecular,PCR
+38,RT-PCR,bioMérieux SA <s>219</s>,98.0,100.0,Molecular,PCR
+39,RT-PCR,"Bio-Rad Laboratories, Inc. <s>222</s>",94.87,95.0,Molecular,PCR
+41,Real-time RT-PCR,ScienCell Research Laboratories<s>227-229</s> USA,100.0,100.0,Molecular,PCR
+43,Real-time RT-PCR,CerTest Biotec<s>238</s> Spain,97.5,99.9,Molecular,PCR
+44,Real-time RT-PCR ,"Thermo Fisher Scientific<s>133,243-245</s> USA ",100.0,100.0,Molecular,PCR
+45,Real-time RT-PCR,"US CDC<s>17,247,248</s> USA",100.0,100.0,Molecular,PCR
+46,Real-time RT-PCR,"SolGent<s>151,152,249</s> South Korea",100.0,100.0,Molecular,PCR
+47,Real-time RT-PCR ,"SD Biosensor<s>151,152</s> South Korea ",100.0,100.0,Molecular,PCR
+48,Real-time RT-PCR,"Luminex<s>164,165,253,25</s><s>4</s> USA",100.0,100.0,Molecular,PCR
+49,Real-time RT-PCR,"Genomica<s>255,256</s> Spain",100.0,100.0,Molecular,PCR
+50,Real-time RT-PCR,Avellino Lab<s>257-259</s> USA,100.0,100.0,Molecular,PCR
+52,Real-time RT-PCR,NeuMoDx<s>261-263</s>,100.0,100.0,Molecular,PCR
+53,Real-time RT-PCR,Becton Dickinson (BD)<s>264-266</s> USA,100.0,100.0,Molecular,PCR
+54,Real-time RT-PCR,"Maccura Biotechnology<s>257,26</s><s>7,268</s> China",100.0,100.0,Molecular,PCR
+55,Real-time RT-PCR ,"Ipsum Diagnostics<s>269,270</s> ",100.0,100.0,Molecular,PCR
+56,Real-time RT-PCR,"Gnomegen<s>271,272</s>(Subsidiary of QuestGenomics)  USA (China)",100.0,100.0,Molecular,PCR
+57,Real-time RT-PCR,"InBios International<s>248,273,2</s><s>74</s> USA",100.0,96.7,Molecular,PCR
+58,Real-time RT-PCR,"Becton Dickinson (BD)<s>275,276</s> USA",96.0,100.0,Molecular,PCR
+59,Real Time RT-PCR,BGI<s>279-281</s> (Pathomics Health as distributor)   China,97.1,100.0,Molecular,PCR
+60,qPCR ,Primerdesign<s>286-291</s>(molecular diagnostics division of Novacyt) France/UK,96.0,100.0,Molecular,PCR
+61,qPCR  [Point-of-Care],Molbio Diagnostics<s>295</s> India,100.0,100.0,Molecular,PCR
+62,PCR-based genotyping,"Genomica<s>300,301</s> Spain",96.0,98.0,Molecular,PCR
+64,RT-PCR,"TCM Biosciences<s>131,315</s> South Korea",100.0,100.0,Molecular,PCR
+65,RT-PCR,"QuantuMDx<s>295,318</s>UK",100.0,100.0,Molecular,PCR
+66,RT-PCR,Fast Track Diagnostics Luxembourg Sárl. (a Siemens Healthineers Company),100.0,100.0,Molecular,PCR
+67,RT-PCR ,bioMérieux SA<s>321</s> ,100.0,100.0,Molecular,PCR
+68,RT-PCR,"OPTI Medical Systems, Inc",100.0,100.0,Molecular,PCR
+69,RT-PCR,Zymo Research Corporation,100.0,100.0,Molecular,PCR
+70,RT-PCR ,Rutgers Clinical Genomics Laboratory at RUCDR Infinite Biologics - Rutgers University ,100.0,100.0,Molecular,PCR
+71,RT-PCR,Abbott Molecular Inc.<s>326</s>,100.0,100.0,Molecular,PCR
+72,RT-PCR,1drop Inc <s>327</s>,100.0,,Molecular,PCR
+73,RT-PCR,"Applied DNA Sciences, Inc.<s>328</s>",98.0,93.0,Molecular,PCR
+74,RT-PCR ,"GeneMatrix, Inc.<s>329</s> ",100.0,100.0,Molecular,PCR
+75,RT-PCR,Assurance Scientific Laboratories<s>330</s>,100.0,100.0,Molecular,PCR
+76,Real Time RT-PCR,Quidel Corporation<s>331</s>,97.0,100.0,Molecular,PCR
+77,RT-PCR ,P23 Labs <s>335</s> ,100.0,100.0,Molecular,PCR
+78,RT-PCR,BioCore,100.0,100.0,Molecular,PCR
+92,Total Antibody Immunoassay (ELISA),Bio-Rad Laboratories<s>222</s>,100.0,100.0,Serological,Total antibody
+93,Total antibody immunoassay,Beijing Wantai Biologicalpharmacy Enterprise Co Ltd<s>380</s> China,96.6,95.2,Serological,Total antibody
+94,Total Antibody Immunoassay,Wadsworth Center<s>381</s>,88.0,99.6,Serological,Total antibody
+95,Total antibody Immunoassay,Roche Diagnostics,100.0,99.81,Serological,Total antibody
+96,Total Antibody immunoassay  [Point-of-Care],"Mologic (partnership with the Institut Pasteur de Dakar)<s>386,387</s> UK",98.0,98.0,Serological,Total antibody
+97,Total Antibody immunoassay,Ortho Clinical Diagnostics<s>390-392</s> USA,83.3,100.0,Serological,Total antibody
+98,IgG/IgM antibody immunoassay (colloidal gold)  [Point-of-Care],Mobidiag (in collaboration with Autobio <s>Diagnostics)</s><s>199</s>Finland,97.4,96.2,Serological,IgG/IgM
+99,IgG/IgM antibody immunoassay  (CLIA),Shenzhen Tisenc Medical Device<s>55</s>(collaboration with Shenzhen University and Shenzhen No.3 People’s Hospital)  China,96.6,,Serological,IgG/IgM
+100,IgG/IgM antibody immunoassay (CLIA),"Snibe Diagnostic<s>397,398</s> China",100.0,,Serological,IgG/IgM
+101,IgG/IgM antibody immunoassay,GenBody Inc (South Korea)<s>214</s>,91.7,97.5,Serological,IgG/IgM
+102,IgG/IgM antibody immunoassay,Healgen Scientific Limited Liability Company (USA)<s>400</s>,97.2,100.0,Serological,IgG/IgM
+103,IgG/IgM antibody immunoassay,PCL,100.0,,Serological,IgG/IgM
+104,IgG/IgM antibody immunoassay  [Point-of-Care],"BioMedomics /  Jiangsu Medomics Medical Technology<s>54,57,58</s> USA / China",88.66,90.63,Serological,IgG/IgM
+105,IgG/IgM antibody immunoassay ,Shenzen YHLO Biotech Co. Ltd (China)<s>401</s> ,100.0,92.8,Serological,IgG/IgM
+106,IgG/IgM antibody immunoassay,CTK Biotech Inc<s>406</s> USA,96.9,99.4,Serological,IgG/IgM
+107,IgG/IgM antibody immunoassay,Qingdao Hightop Biotech Co Ltd<s>407</s> China,93.0,97.5,Serological,IgG/IgM
+109,IgG/IgM antibody immunoassay,Hangzhou Clongene Biotech <s>Co Ltd</s> China,99.42,98.89,Serological,IgG/IgM
+110,IgG/IgM antibody immunoassay,Hangzhou Biotest <s>Biotech Co Ltd</s> China,100.0,99.5,Serological,IgG/IgM
+112,IgG/IgM antibody immunoassay [Point-of-Care],"Hangzhou AllTest Biotech<s>81,412,413</s> China",100.0,98.0,Serological,IgG/IgM
+113,IgG/IgM antibody immunoassay [Point-of-Care],"Zhejiang Orient Gene Biotech<s>51,52</s> China",97.2,100.0,Serological,IgG/IgM
+114,IgG/IgM antibody immunoassay [Point-of-Care],SD Biosensor<s>53</s> South Korea,81.8,96.7,Serological,IgG/IgM
+115,IgG/IgM antibody immunoassay [Point-of-Care],Chembio Diagnostic Systems<s>415-417</s> USA,100.0,100.0,Serological,IgG/IgM
+116,IgG/IgM antibody immunoassay [Point-of-Care],"Cellex<s>61,358</s> USA",93.8,96.0,Serological,IgG/IgM
+117,IgG/IgM antibody immunoassay,Nankai University<s>56</s> (in collaboration with KingFocus Biomedical)  China,75.0,,Serological,IgG/IgM
+120,IgM antibody immunoassay  [Point-of-Care],"Guangzhou Medical University<s>11,43</s>(Dr Zhong Nanshan) In collaboration with Jiangsu Medomics Medical Technologies and many other institutes  China",88.66,90.63,Serological,IgM
+121,IgM antibody immunoassay ,Innovita Biological Technology<s>44</s> China ,87.3,100.0,Serological,IgM
+122,IgM antibody immunoassay,Epitope Diagnostics,73.8,100.0,Serological,IgM
+123,IgG antibody immunoassay,"Abbott Laboratories Inc.<s>431,432</s> USA",100.0,100.0,Serological,IgG
+124,IgG Antibody immunoassay,Mount Sinai Laboratory<s>435</s>,92.0,100.0,Serological,IgG
+125,IgG Antibody detection,"Ortho-Clinical <s>Diagnostics, Inc.</s><s>436</s>",87.5,100.0,Serological,IgG
+126,IgG Antibody detection,Diasorin Inc.<s>437</s>,97.56,99.3,Serological,IgG
+127,IgG Antibody detection,Epitope Diagnostics,98.4,99.8,Serological,IgG
+128,IgA/IgG antibody immunoassay,EUROIMMUN AG<s>439-441</s> Germany,100.0,99.0,Serological,IgA/IgG
